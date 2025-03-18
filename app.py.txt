@@ -1,8 +1,8 @@
 import streamlit as st
-import pandas as pd
-import openai
-import matplotlib.pyplot as plt
-import seaborn as sns
+import pandas as pd 
+import openai 
+import matplotlib.pyplot as plt 
+import seaborn as sns 
 import os
 
 # Set OpenAI API Key (Replace with your API Key)
